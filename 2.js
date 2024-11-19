@@ -1,3 +1,5 @@
+let S = "sabbir"
+console.log(S)
 const sumNumber = (nums, target) => {
     let s = "sabbir";
     let list = []
