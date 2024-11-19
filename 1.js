@@ -12,6 +12,7 @@ const isPalindrome = (x) => {
     } else {
         return "Not a Palindrome Number"
     }
+    
 }
-
+console.log("sabbir")
 console.log(isPalindrome(12))
